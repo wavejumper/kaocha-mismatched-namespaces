@@ -1,4 +1,4 @@
-# mismatched namespaces silently drops tests in kaocha
+# mismatched namespaces silently ignore tests
 
 ```
 > lein test
